@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nike/static/css/main.fb0316b9.chunk.css",
+    "main.js": "/Nike/static/js/main.52317dc6.chunk.js",
+    "main.js.map": "/Nike/static/js/main.52317dc6.chunk.js.map",
+    "runtime-main.js": "/Nike/static/js/runtime-main.deb4156b.js",
+    "runtime-main.js.map": "/Nike/static/js/runtime-main.deb4156b.js.map",
+    "static/js/2.6f41c62b.chunk.js": "/Nike/static/js/2.6f41c62b.chunk.js",
+    "static/js/2.6f41c62b.chunk.js.map": "/Nike/static/js/2.6f41c62b.chunk.js.map",
+    "index.html": "/Nike/index.html",
+    "precache-manifest.b4b131577d8873004fde8b1f7feab381.js": "/Nike/precache-manifest.b4b131577d8873004fde8b1f7feab381.js",
+    "service-worker.js": "/Nike/service-worker.js",
+    "static/css/main.fb0316b9.chunk.css.map": "/Nike/static/css/main.fb0316b9.chunk.css.map",
+    "static/js/2.6f41c62b.chunk.js.LICENSE.txt": "/Nike/static/js/2.6f41c62b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deb4156b.js",
+    "static/js/2.6f41c62b.chunk.js",
+    "static/css/main.fb0316b9.chunk.css",
+    "static/js/main.52317dc6.chunk.js"
+  ]
+}
